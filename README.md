@@ -1,4 +1,8 @@
 ### Hi there 👋
+Actualmente cursando el programa de formacion multidiciplinaria de Programacion en Inteigencia Artificial del Laboratorio de Innovacion e Inteligencia Artificial de la Facultad de Derecho de la Universidad de Buenos Aires(IALAB).-
+Estudiante del profesorado de Informatica.(UNIPE).-
+En constante aprendisaje.-
+Nunca es tarde para comenzar de nuevo!!!
 
 <!--
 **FabianColin/FabianColin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
