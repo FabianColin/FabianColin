@@ -1,8 +1,9 @@
 ### Hi there 👋
-Actualmente cursando el programa de formación multidisciplinaria de Programación en Inteligencia Artificial del Laboratorio de Innovación e Inteligencia Artificial de la Facultad de Derecho de la Universidad de Buenos Aires(IALAB-UBA).-
-Estudiante del profesorado de informática de la Universidad Pedagógica Nacional(UNIPE).-
-Como en la vida, en constante aprendisaje.-
-Nunca es tarde para comenzar otra vez!!!
+Estudiante de la tecnicatura en Ciberseguridad en la Universidad Nacional Raul Scalabrini Ortiz.-
+Actualmente cursando el programa de formación multidisciplinaria de Programación en Inteligencia Artificial del Laboratorio de Innovación e Inteligencia Artificial de la Facultad de Derecho de la Universidad de Buenos Aires(IALAB-UBA).
+
+Como en la vida, en constante aprendisaj.- 
+
 
 <!--
 **FabianColin/FabianColin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
