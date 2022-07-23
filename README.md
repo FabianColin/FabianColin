@@ -1,5 +1,5 @@
 ### Hi there 👋
-Estudiante de la tecnicatura en  Ciberseguridad en la Universidad Nacional Raul Scalabrini Ortiz  . 
+Estudiante de la tecnicatura Universitaria en Ciberseguridad de la Universidad Nacional Raul Scalabrini Ortiz  . 
 
 Javascript - React Js en el programa multidiciplinario de Programación en Inteligencia Artificial del Laboratorio de Innovación e Inteligencia Artificial de la Facultad de Derecho de la Universidad de Buenos Aires(IALAB-UBA).-
 
