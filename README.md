@@ -1,6 +1,7 @@
 ### Hi there 👋
-Estudiante de la tecnicatura en Ciberseguridad en la Universidad Nacional Raul Scalabrini Ortiz.-
-Actualmente cursando el programa de formación multidisciplinaria de Programación en Inteligencia Artificial del Laboratorio de Innovación e Inteligencia Artificial de la Facultad de Derecho de la Universidad de Buenos Aires(IALAB-UBA).
+Estudiante de la tecnicatura en  Ciberseguridad en la Universidad Nacional Raul Scalabrini Ortiz  . 
+
+Javascript - React Js en el programa multidiciplinario de Programación en Inteligencia Artificial del Laboratorio de Innovación e Inteligencia Artificial de la Facultad de Derecho de la Universidad de Buenos Aires(IALAB-UBA).-
 
 Como en la vida, en constante aprendisaj.- 
 
